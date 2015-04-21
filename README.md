@@ -1,6 +1,8 @@
 # codereload
 An application which locates address offsets in applications using byte signatures.
 
+Relies on Visual Studio 2008 and Qt4.
+
 **This is an old, dead project. Just an import from my old Google Code account**
 
 ## Example .apxml (byte signature) file
