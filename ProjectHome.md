@@ -1,0 +1,1 @@
+CodeReload scans the full readable memory of the target process and compares the scanned memory to user-defined byte-code patterns from a .apxml file. It uses these patterns to locate common memory addresses and code locations across different versions of a binary distribution, and saves the en-user hours of work.
