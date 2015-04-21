@@ -1,6 +1,8 @@
 # codereload
 An application which locates address offsets in applications using byte signatures.
 
+**This is an old, dead project. Just an import from my old Google Code account**
+
 ## Example .apxml (byte signature) file
 
 	<addresspatterns>
